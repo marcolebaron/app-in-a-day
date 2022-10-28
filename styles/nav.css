@@ -1,0 +1,9 @@
+.links-wrappers > .nav-link a {
+    display:flex;
+    justify-content: flex-end;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+    padding: 0px 90px 10px 10px;
+    font-size: 22px;
+}

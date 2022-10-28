@@ -1,0 +1,15 @@
+.footer {
+    background-color: white;
+   color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 400px;
+    margin-top: -4px;
+  }
+  .links-wrapper > .nav-link a {
+    color: black;
+    text-decoration: none;
+  }
